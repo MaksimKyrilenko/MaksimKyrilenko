@@ -1,128 +1,289 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Максим%20Кириленко&fontSize=70&fontAlignY=35&desc=FullStack%20Developer%20|%20Web%20Applications%20|%20Business%20Automation&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Максим%20Кириленко&fontSize=70&fontAlignY=35&desc=FullStack%20Developer%20•%20Создаю%20работающие%20инструменты%20для%20бизнеса&descAlignY=55&descSize=20&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Веб-разработка+под+ключ+%7C+Telegram+Mini+Apps;Чат-боты+и+автоматизация+%7C+Скрипты+и+парсеры)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+---
+
+## 👨‍💻 Обо мне
+
+```javascript
+const maksim = {
+    role: "FullStack Developer",
+    location: "Россия 🇷🇺",
+    approach: "Не просто код — работающие решения",
+    experience: {
+        web: "SPA, сложные веб-сервисы",
+        telegram: "Mini Apps, чат-боты",
+        automation: "Скрипты, парсеры, автоматизация бизнеса"
+    },
+    philosophy: "Полный цикл разработки: от интерфейса до серверной части",
+    availability: "Открыт для интересных проектов"
+};
+```
 
 <div align="center">
-  
-### Не просто код — работающие инструменты для вашего бизнеса
 
-*Полный цикл разработки: от интерфейса до серверной части и автоматизации*
+### 🎯 Чем я могу быть полезен вашему бизнесу
 
 </div>
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🎯 Специализация
+#### 🌐 Веб-разработка под ключ
+Создаю **SPA** и сложные веб-сервисы с высокой производительностью. Адаптивная верстка, быстрая загрузка, современный UI/UX.
+
+**Результат:** Готовое приложение, которое работает на всех устройствах
+
+</td>
+<td width="50%" valign="top">
+
+#### 💬 Telegram Mini Apps
+Разрабатываю трендовые **мини-приложения** внутри Telegram (TMA), которые заменяют нативные приложения для многих бизнесов.
+
+**Результат:** Быстрый запуск без установки приложения
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 Чат-боты и автоматизация
+Умные боты на **Python** (Aiogram/Telebot) для продаж, поддержки клиентов и автоматизации рутинных задач.
+
+**Результат:** Экономия времени и увеличение конверсии
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 Скрипты и парсеры
+Сбор и обработка данных, автоматизация действий, интеграция с API, парсинг сайтов.
+
+**Результат:** Автоматизация процессов и аналитика
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Технологический стек
+
+<div align="center">
+
+### Frontend Development
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Технологии:** Vue 3 • Composition API • Pinia • Vuex • Responsive Design
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Python:** Aiogram • Telebot • Парсинг • Автоматизация • API Integration
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Избранные проекты
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="60" height="60" alt="Web Development"/>
-<br><br>
-<strong>Веб-разработка</strong>
-<br><br>
-<sub>SPA и сложные веб-сервисы с высокой производительностью</sub>
+<td width="50%" valign="top">
+
+### 🛍️ E-commerce платформа
+**Стек:** Vue 3, Node.js, PostgreSQL, Docker
+
+Полнофункциональный интернет-магазин с админ-панелью, корзиной, оплатой и системой заказов.
+
+**Особенности:**
+- Адаптивный дизайн
+- Интеграция с платежными системами
+- Панель администратора
+- REST API
+
+[🔗 Посмотреть проект](#)
+
 </td>
-<td align="center" width="25%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="60" height="60" alt="Telegram"/>
-<br><br>
-<strong>Telegram Mini Apps</strong>
-<br><br>
-<sub>Трендовые мини-приложения внутри мессенджера</sub>
+<td width="50%" valign="top">
+
+### 💬 Telegram Mini App
+**Стек:** Vue 3, Telegram WebApp API, Node.js
+
+Мини-приложение для заказа услуг прямо в Telegram с интеграцией платежей.
+
+**Особенности:**
+- Нативная интеграция с Telegram
+- Быстрая загрузка
+- Удобный UX
+- Система уведомлений
+
+[🔗 Посмотреть проект](#)
+
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Bots"/>
-<br><br>
-<strong>Чат-боты</strong>
-<br><br>
-<sub>Автоматизация продаж и поддержки клиентов</sub>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Telegram бот для продаж
+**Стек:** Python, Aiogram, PostgreSQL
+
+Автоматизированный бот для приема заказов, консультаций и оплаты товаров.
+
+**Особенности:**
+- Прием платежей
+- Админ-панель
+- Рассылки
+- Аналитика
+
+[🔗 Посмотреть проект](#)
+
 </td>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60" height="60" alt="Automation"/>
-<br><br>
-<strong>Автоматизация</strong>
-<br><br>
-<sub>Скрипты и парсеры для обработки данных</sub>
+<td width="50%" valign="top">
+
+### 📊 Парсер и аналитика
+**Стек:** Python, BeautifulSoup, Pandas
+
+Система сбора и анализа данных с автоматической генерацией отчетов.
+
+**Особенности:**
+- Парсинг сайтов
+- Обработка данных
+- Визуализация
+- Автоматические отчеты
+
+[🔗 Посмотреть проект](#)
+
 </td>
 </tr>
 </table>
 
 </div>
 
-<br>
+---
 
-## 💻 Технологический стек
+## 📊 GitHub статистика
 
 <div align="center">
 
-### Frontend
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<sub>Vue 3 • Composition API • Pinia • Vuex</sub>
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<sub>Aiogram • Telebot • Парсинг • Автоматизация</sub>
-
-### Databases & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaksimKyrilenko&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimKyrilenko&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
-<br>
+<div align="center">
 
-## ⚡ Преимущества работы со мной
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaksimKyrilenko&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksimKyrilenko&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## ⚡ Почему со мной комфортно работать
 
 <div align="center">
 
 ```typescript
-const developer = {
-  code: "Чистый и поддерживаемый",
-  communication: "Всегда на связи",
-  deadlines: "Соблюдаю сроки",
-  approach: "Понимаю бизнес-логику",
-  solutions: "Предлагаю оптимальные решения"
+interface Developer {
+  code: string;
+  communication: string;
+  deadlines: string;
+  approach: string;
+  solutions: string;
+}
+
+const maksimKyrilenko: Developer = {
+  code: "✨ Чистый, поддерживаемый и масштабируемый",
+  communication: "💬 Всегда на связи, быстрая обратная связь",
+  deadlines: "⏰ Соблюдаю сроки и держу в курсе прогресса",
+  approach: "🎯 Понимаю бизнес-логику, а не просто выполняю ТЗ",
+  solutions: "💡 Предлагаю оптимальные решения для ваших задач"
 };
+
+export default maksimKyrilenko;
 ```
 
 </div>
 
-<br>
-
 <div align="center">
+
+### 🎖️ Мои принципы
+
+| Качество | Скорость | Поддержка |
+|:--------:|:--------:|:---------:|
+| Пишу код, который легко поддерживать | Быстрая разработка без потери качества | Помогаю после сдачи проекта |
+
+</div>
+
+---
 
 ## 📬 Связаться со мной
 
+<div align="center">
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Maksim3456)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
 <br>
 
-### Открыт для интересных проектов и сотрудничества
+### 💼 Открыт для интересных проектов и сотрудничества
+
+**Готов обсудить ваш проект прямо сейчас!**
 
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<img src="https://komarev.com/ghpvc/?username=MaksimKyrilenko&label=Просмотров%20профиля&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "Код — это не просто инструкция для компьютера, это решение бизнес-задач"
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
 
 </div>
