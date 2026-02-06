@@ -115,29 +115,6 @@
 
 ---
 
-## �  GitHub статистика
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaksimKyrilenko&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimKyrilenko&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaksimKyrilenko&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksimKyrilenko&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## ⚡ Почему со мной комфортно работать
 
 <div align="center">
@@ -178,7 +155,7 @@
 </td>
 <td align="center" width="20%">
 
-### 💡
+### �
 **Решения**
 
 Предлагаю оптимальные решения для ваших задач
@@ -206,19 +183,12 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maksim3456)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
 <br>
 
 ### 💼 Открыт для интересных проектов и сотрудничества
 
 **Готов обсудить ваш проект прямо сейчас!**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=MaksimKyrilenko&label=Просмотров%20профиля&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
