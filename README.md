@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Максим%20Кириленко&fontSize=70&fontAlignY=35&desc=FullStack%20Developer%20•%20Создаю%20работающие%20инструменты%20для%20бизнеса&descAlignY=55&descSize=20&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Веб-разработка+под+ключ+%7C+Telegram+Mini+Apps;Чат-боты+и+автоматизация+%7C+Скрипты+и+парсеры)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Веб-разработка+под+ключ+|+Telegram+Mini+Apps;Чат-боты+и+автоматизация+|+Скрипты+и+парсеры)](https://git.io/typing-svg)
 
 </div>
 
@@ -113,86 +113,7 @@ const maksim = {
 
 ---
 
-## 🚀 Избранные проекты
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛍️ E-commerce платформа
-**Стек:** Vue 3, Node.js, PostgreSQL, Docker
-
-Полнофункциональный интернет-магазин с админ-панелью, корзиной, оплатой и системой заказов.
-
-**Особенности:**
-- Адаптивный дизайн
-- Интеграция с платежными системами
-- Панель администратора
-- REST API
-
-[🔗 Посмотреть проект](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Telegram Mini App
-**Стек:** Vue 3, Telegram WebApp API, Node.js
-
-Мини-приложение для заказа услуг прямо в Telegram с интеграцией платежей.
-
-**Особенности:**
-- Нативная интеграция с Telegram
-- Быстрая загрузка
-- Удобный UX
-- Система уведомлений
-
-[🔗 Посмотреть проект](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Telegram бот для продаж
-**Стек:** Python, Aiogram, PostgreSQL
-
-Автоматизированный бот для приема заказов, консультаций и оплаты товаров.
-
-**Особенности:**
-- Прием платежей
-- Админ-панель
-- Рассылки
-- Аналитика
-
-[🔗 Посмотреть проект](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Парсер и аналитика
-**Стек:** Python, BeautifulSoup, Pandas
-
-Система сбора и анализа данных с автоматической генерацией отчетов.
-
-**Особенности:**
-- Парсинг сайтов
-- Обработка данных
-- Визуализация
-- Автоматические отчеты
-
-[🔗 Посмотреть проект](#)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub статистика
+## �  GitHub статистика
 
 <div align="center">
 
@@ -257,7 +178,7 @@ export default maksimKyrilenko;
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Maksim3456)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maksim3456)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
